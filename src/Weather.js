@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 
 function Weather() {
-    const [city, setCity] = useState("Toronto"); // Default city for initial load
+    const [city, setCity] = useState("Toronto");
     const [weather, setWeather] = useState(null);
     const [error, setError] = useState("");
 

@@ -24,3 +24,7 @@ https://101491915-comp3123-labtest2-git-main-ginageegees-projects.vercel.app/
 
 Api used
 https://openweathermap.org/current
+
+
+![img_2.png](img_2.png)
+![img.png](img.png)
